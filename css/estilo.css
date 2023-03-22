@@ -1,8 +1,26 @@
-h1{
+body{
+
+    color #333;
+    text-align: left;
+    font-family: "Arial";
+    font-size: 16px;
+
+}
+#container{
+
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+
+}
+/*
+#container h1{
     
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
-
+    font-size: 20px;
 
     color:blueviolet;
 }
@@ -10,7 +28,7 @@ h1{
 p{
     color:blue;
 }
-
+*/
 .nosotros{
     color:brown;
 }
